@@ -1,2 +1,2 @@
 # Demo
-https://bibhuti63.github.io/FrontEnd-Assignment2/
+https://github.com/Montukhan786/F1-Contest-2-March
